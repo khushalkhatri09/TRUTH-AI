@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Node (legacy — moved out of the app; safe to delete)
+node_modules/
+_node_backup/
+
+# OS
+.DS_Store
